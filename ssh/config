@@ -1,0 +1,35 @@
+Host bb10
+	User lmartinez
+	Hostname 129.175.233.66
+
+
+Host n118
+	User lmartinez
+	Hostname 129.175.233.67
+
+
+Host pi2
+	User lmartinez
+	Hostname 172.16.12.31 
+
+Host pi3
+	User lmartinez
+	Hostname 100.124.145.28 
+
+Host pi_vannes
+	User lmartinez
+	Hostname 192.168.1.123 
+
+Host work
+	User lmartinez
+	Hostname 129.175.63.181
+	
+Host backup
+	User lmartinez
+	Hostname 129.175.62.46
+
+Host *
+	HostKeyAlgorithms +ssh-rsa	
+	PubkeyAcceptedKeyTypes +ssh-rsa
+	ServerAliveInterval 60
+    ServerAliveCountMax 3

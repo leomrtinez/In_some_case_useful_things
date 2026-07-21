@@ -1,0 +1,30 @@
+name: inferences
+channels:
+  - defaults
+dependencies:
+  - rasterio
+  - numpy
+  - ipython
+  - shapely
+  - pytables
+  - gdal
+  - pyyaml
+  - spyder
+  - python=3.11
+  - tqdm
+  - pandas
+  - conda-forge::geopandas
+  - rtree
+  - anaconda::lightning-utilities
+  - pytorch
+  - torchvision
+  - fiona
+  - scipy
+  - jupyter
+  - h5py
+  - anaconda::scikit-image
+  - conda-forge::pypdf2
+  - numba
+  - conda-forge::reportlab
+  - conda-forge::owslib
+prefix: /opt/anaconda3/envs/inferences

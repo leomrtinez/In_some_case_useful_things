@@ -1,0 +1,29 @@
+{
+    "security.workspace.trust.untrustedFiles": "open",
+    "explorer.confirmDragAndDrop": false,
+    "terminal.integrated.inheritEnv": false,
+    "editor.wordWrap": "on",
+    "editor.unicodeHighlight.nonBasicASCII": false,
+    "interactiveWindow.executeWithShiftEnter": true,
+    "jupyter.interactiveWindow.textEditor.cellFolding": false,
+    "git.openRepositoryInParentFolders": "never",
+    "python.defaultInterpreterPath": "/opt/anaconda3/bin/python",
+    "latex-workshop.view.pdf.internal.synctex.keybinding": "double-click",
+    "workbench.editor.empty.hint": "hidden",
+    "github.copilot.enable": {
+        "latex": true,
+        "python": true,
+        "tex": true,
+        "plaintext": true
+    },
+    "llama-vscode.languageSettings": {
+        "latex": true
+    },
+    "[latex]": {
+        "editor.defaultFormatter": "James-Yu.latex-workshop"
+    },
+    "python-envs.defaultEnvManager": "ms-python.python:conda",
+    "python-envs.defaultPackageManager": "ms-python.python:conda",
+    "jupyter.interactiveWindow.creationMode": "perFile",
+    "chat.unifiedAgentsBar.enabled": true
+}
