@@ -45,7 +45,7 @@ Before going through the sections below, make sure you have:
  
 - A terminal open and this repo cloned locally:
 ```bash
-  git clone <this-repo-url>
+  git clone git@github.com:leomrtinez/In_some_case_useful_things.git
   cd In_some_case_useful_things
 ```
 - Admin rights on the machine (needed for Homebrew and some installs).
