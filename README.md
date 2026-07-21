@@ -1,4 +1,4 @@
- In some case useful things
+# In some case useful things
  
 A personal collection of configs, snippets, scripts, and development utilities accumulated over time. From Vim tweaks and VS Code settings to shell aliases and random productivity hacks, this repository is my digital toolbox — and my quick-reinstall kit whenever I switch machines.
  
